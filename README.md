@@ -16,8 +16,8 @@ Proyek ini memanfaatkan PySpark untuk pengolahan data skala besar dan membangun 
 3. Feature Engineering (ekstraksi waktu & kalkulasi jarak)
 4. Exploratory Data Analysis
 5. Model Training
-- Decision Tree Regressor
-- Random Forest Regressor
+  - Decision Tree Regressor
+  - Random Forest Regressor
 6. Evaluasi Model menggunakan RMS
 7. Visualisasi Hasil
 
